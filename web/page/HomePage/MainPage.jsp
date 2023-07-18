@@ -36,9 +36,9 @@
       <div class="home">
         <div class="background">
           <div class="background-child"></div>
-          <img class="image-10-icon" alt="" src="./public/image-10@2x.png" />
+          <img class="image-10-icon" alt="" src="${pageContext.request.contextPath}./public/image-10@2x.png" />
 
-          <img class="image-14-icon" alt="" src="./public/image-14@2x.png" />
+          <img class="image-14-icon" alt="" src="${pageContext.request.contextPath}./public/image-14@2x.png" />
         </div>
         <div class="header">
           <div class="nav">
@@ -49,7 +49,7 @@
             <b class="auction" id="auctionText">Auction</b>
             <b class="home1">Home</b>
           </div>
-          <img class="logo-icon" alt="" src="./public/logo@2x.png" />
+          <img class="logo-icon" alt="" src="${pageContext.request.contextPath}./public/logo@2x.png" />
 
           <div class="sign-up" id="signUpContainer">
             <div class="signup"></div>
@@ -69,7 +69,7 @@
           </div>
           <b class="b">+49 (0) 771 / 175 131 69</b>
         </div>
-        <img class="footer-child" alt="" src="./public/line-3.svg" />
+        <img class="footer-child" alt="" src="${pageContext.request.contextPath}./public/line-3.svg" />
 
         <div class="shop-service">
           <b class="b">Shop Service</b>
@@ -80,7 +80,7 @@
           <div class="agb">FAQ</div>
           <div class="agb">Shipping and payment terms</div>
         </div>
-        <img class="footer-child" alt="" src="./public/line-3.svg" />
+        <img class="footer-child" alt="" src="${pageContext.request.contextPath}./public/line-3.svg" />
 
         <div class="shop-service">
           <b class="b">Informationen</b>
@@ -90,7 +90,7 @@
           <div class="agb">Newsletter</div>
           <div class="agb">Shipment</div>
         </div>
-        <img class="footer-child" alt="" src="./public/line-3.svg" />
+        <img class="footer-child" alt="" src="${pageContext.request.contextPath}./public/line-3.svg" />
 
         <div class="our-company">
           <b class="b">Our Company</b>
@@ -100,13 +100,13 @@
             <div class="agb">Guarantee</div>
           </div>
           <div class="frame-parent">
-            <img class="frame-icon" alt="" src="./public/frame.svg" />
+            <img class="frame-icon" alt="" src="${pageContext.request.contextPath}./public/frame.svg" />
 
-            <img class="vector-icon" alt="" src="./public/vector.svg" />
+            <img class="vector-icon" alt="" src="${pageContext.request.contextPath}./public/vector.svg" />
 
-            <img class="frame-icon" alt="" src="./public/frame1.svg" />
+            <img class="frame-icon" alt="" src="${pageContext.request.contextPath}./public/frame1.svg" />
 
-            <img class="frame-icon2" alt="" src="./public/frame2.svg" />
+            <img class="frame-icon2" alt="" src="${pageContext.request.contextPath}./public/frame2.svg" />
           </div>
         </div>
       </div>
@@ -115,13 +115,13 @@
         <img
           class="logo-shop-store"
           alt=""
-          src="./public/logo-shop-store@2x.png"
+          src="${pageContext.request.contextPath}./public/logo-shop-store@2x.png"
         />
 
         <div class="card-bo-gc">
           <div class="lisa">
             <div class="image-8"></div>
-            <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
+            <img class="image-4-icon" alt="" src="${pageContext.request.contextPath}./public/image-4@2x.png" />
 
             <b class="blackpink-oreo-container">
               <p class="blackpink-oreo">BLACKPINK × OREO LISA</p>
@@ -130,7 +130,7 @@
           </div>
           <div class="jisoo">
             <div class="image-81"></div>
-            <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+            <img class="image-7-icon" alt="" src="${pageContext.request.contextPath}./public/image-7@2x.png" />
 
             <b class="blackpink-oreo-container1">
               <p class="blackpink-oreo">BLACKPINK × OREO JISOO</p>
@@ -143,11 +143,11 @@
               <p class="blackpink-oreo">BLACKPINK × OREO ROSE</p>
               <p class="blackpink-oreo">5$</p>
             </b>
-            <img class="image-5-icon" alt="" src="./public/image-5@2x.png" />
+            <img class="image-5-icon" alt="" src="${pageContext.request.contextPath}./public/image-5@2x.png" />
           </div>
           <div class="jennie">
             <div class="image-71"></div>
-            <img class="image-6-icon" alt="" src="./public/image-6@2x.png" />
+            <img class="image-6-icon" alt="" src="${pageContext.request.contextPath}./public/image-6@2x.png" />
 
             <b class="blackpink-oreo-container3">
               <p class="blackpink-oreo">BLACKPINK × OREO JENNIE</p>
@@ -157,7 +157,7 @@
         </div>
         <div class="b-sn-phm-abum">
           <div class="lisa-307">
-            <img class="image-12-icon" alt="" src="./public/image-12@2x.png" />
+            <img class="image-12-icon" alt="" src="${pageContext.request.contextPath}./public/image-12@2x.png" />
 
             <div class="lisa0327">
               <img
@@ -180,7 +180,7 @@
             </div>
           </div>
           <div class="concert">
-            <img class="image-11-icon" alt="" src="./public/image-11@2x.png" />
+            <img class="image-11-icon" alt="" src="${pageContext.request.contextPath}./public/image-11@2x.png" />
 
             <div class="concert1">
               <div class="concert-child"></div>
@@ -191,7 +191,7 @@
             </div>
           </div>
           <div class="born-pink">
-            <img class="image-13-icon" alt="" src="./public/image-13@2x.png" />
+            <img class="image-13-icon" alt="" src="${pageContext.request.contextPath}./public/image-13@2x.png" />
 
             <div class="abum-born-pink">
               <div class="abum-born-pink-child"></div>
@@ -237,13 +237,13 @@
             of KPop and unleash your fandom to the fullest!
           </p>
         </div>
-        <img class="image-15-icon" alt="" src="./public/image-15@2x.png" />
+        <img class="image-15-icon" alt="" src="${pageContext.request.contextPath}/page/HomePage/image/blackpink about.jpg" />
       </div>
       <div class="limit-product">
         <div class="nn-limit"></div>
         <b class="limited-product">Limited Product</b>
         <div class="phone">
-          <img class="image-18-icon" alt="" src="./public/image-18@2x.png" />
+          <img class="image-18-icon" alt="" src="${pageContext.request.contextPath}./public/image-18@2x.png" />
 
           <b class="samsung-galaxy-a80-container">
             <p class="blackpink-oreo">SAMSUNG GALAXY A80 X BLACKPINK</p>
@@ -251,7 +251,7 @@
           </b>
         </div>
         <div class="ng-h">
-          <img class="image-16-icon" alt="" src="./public/image-16@2x.png" />
+          <img class="image-16-icon" alt="" src="${pageContext.request.contextPath}./public/image-16@2x.png" />
 
           <b class="samsung-galaxy-watch-container">
             <p class="blackpink-oreo">
@@ -261,7 +261,7 @@
           </b>
         </div>
         <div class="tai-nghe">
-          <img class="image-17-icon" alt="" src="./public/image-17@2x.png" />
+          <img class="image-17-icon" alt="" src="${pageContext.request.contextPath}./public/image-17@2x.png" />
 
           <b class="samsung-galaxy-buds-container">
             <p class="blackpink-oreo">SAMSUNG GALAXY BUDS X BLACKPINK</p>
@@ -285,7 +285,7 @@
               <p class="blackpink-oreo">Starting Price: 46.28$</p>
             </b>
           </div>
-          <img class="image-19-icon" alt="" src="./public/image-19@2x.png" />
+          <img class="image-19-icon" alt="" src="${pageContext.request.contextPath}./public/image-19@2x.png" />
         </div>
         <div class="lalisa">
           <div class="auction-lalisa">
@@ -301,7 +301,7 @@
               <p class="blackpink-oreo">Starting Price: 46.28$</p>
             </b>
           </div>
-          <img class="image-19-icon" alt="" src="./public/image-19@2x.png" />
+          <img class="image-19-icon" alt="" src="${pageContext.request.contextPath}./public/image-19@2x.png" />
         </div>
         <div class="logo-aution">AUCTION</div>
         <div class="mini-skirt">
@@ -317,7 +317,7 @@
               <p class="blackpink-oreo">Starting Price: 110.04$</p>
             </b>
           </div>
-          <img class="image-20-icon" alt="" src="./public/image-20@2x.png" />
+          <img class="image-20-icon" alt="" src="${pageContext.request.contextPath}./public/image-20@2x.png" />
         </div>
         <div class="stripe">
           <div class="stripe1">
